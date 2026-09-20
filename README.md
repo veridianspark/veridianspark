@@ -36,6 +36,6 @@
 ---
 
 ### 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/syed-minhaj-mustafa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-minhaj-mustafa/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:syedminhajmax@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-lightgrey?style=flat)](#)
