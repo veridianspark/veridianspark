@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Syed Minhaj 👋</h1>
 
-<!--
-**veridianspark/veridianspark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=58A6FF&center=true&vCenter=true&width=435&lines=Student+%7C+Builder+%7C+Learner;Machine+Learning+%26+Backend;Building+in+public" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm up to
+- 🛠️ **Building:** Currently Planning
+- 📚 **Learning:** Python
+- 🤝 **Contributing to:** [LingoTrace](https://github.com/Ph0enix22/LingoTrace)
+- 🎯 **Next:** Resume
+
+---
+
+### 🧰 Toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,git,github,linux&theme=dark" alt="languages, backend and tools" /><br/>
+</p>
+
+
+---
+
+### 📌 Featured work
+- [**LingoTrace**](https://github.com/Ph0enix22/LingoTrace): AI that detects cross-linguistic interference in language learners
+
+---
+
+### 🌐 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/syed-minhaj-mustafa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:syedminhajmax@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-lightgrey?style=flat)](#)
