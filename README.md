@@ -27,6 +27,13 @@
 - [**LingoTrace**](https://github.com/Ph0enix22/LingoTrace): AI that detects cross-linguistic interference in language learners
 
 ---
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats-nu-two-95.vercel.app/api?username=veridianspark&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
 
 ### 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/syed-minhaj-mustafa)
