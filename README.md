@@ -8,7 +8,7 @@
 
 ### 🔭 What I'm up to
 - 🛠️ **Building:** Currently Planning
-- 📚 **Learning:** Python
+- 📚 **Learning:** HTML/CSS
 - 🤝 **Contributing to:** [LingoTrace](https://github.com/Ph0enix22/LingoTrace)
 - 🎯 **Next:** Resume
 
@@ -17,7 +17,7 @@
 ### 🧰 Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,git,github,linux&theme=dark" alt="languages, backend and tools" /><br/>
+  <img src="https://skillicons.dev/icons?i=py,java,git,github,linux&theme=dark" alt="languages, backend and tools" /><br/>
 </p>
 
 
