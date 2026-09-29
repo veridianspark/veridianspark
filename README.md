@@ -7,7 +7,7 @@
 ---
 
 ### 🔭 What I'm up to
-- 🛠️ **Building:** Currently Planning
+- 🛠️ **Building:** SchoolSync
 - 📚 **Learning:** HTML/CSS
 - 🤝 **Contributing to:** [LingoTrace](https://github.com/Ph0enix22/LingoTrace)
 - 🎯 **Next:** Resume
@@ -25,6 +25,7 @@
 
 ### 📌 Featured work
 - [**LingoTrace**](https://github.com/Ph0enix22/LingoTrace): AI that detects cross-linguistic interference in language learners
+- [**SchoolSync**](https://github.com/veridianspark/schoolsync): Your school life, in sync.
 
 ---
 ### 📊 GitHub stats
