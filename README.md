@@ -7,7 +7,7 @@
 ---
 
 ### 🔭 What I'm up to
-- 🛠️ **Building:** SchoolSync
+- 🛠️ **Building:** [SchoolSync](https://github.com/veridianspark/schoolsync)
 - 📚 **Learning:** HTML/CSS
 - 🤝 **Contributing to:** [LingoTrace](https://github.com/Ph0enix22/LingoTrace)
 - 🎯 **Next:** Resume
