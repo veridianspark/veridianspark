@@ -7,7 +7,8 @@
 ---
 
 ### 🔭 What I'm up to
-- 🛠️ **Building:** [Novus](https://github.com/veridianspark/Novus) [SchoolSync]
+- 🛠️ **Building:** [Novus](https://github.com/veridianspark/Novus)
+-  [SchoolSync]-(work in progress)
 - 📚 **Learning:** HTML/CSS
 - 🤝 **Contributing to:** [LingoTrace](https://github.com/Ph0enix22/LingoTrace)
 - 🎯 **Next:** Resume
